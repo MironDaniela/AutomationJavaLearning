@@ -25,7 +25,7 @@ public class Main {
         numeVariabilaFloat = 35.4435855665f;
         numeVariabilaDouble = 95874.258466d;
 
-         numeDeObiectObject = new Object();
+        Object numeDeObiectObject = new Object();
 
 
 
