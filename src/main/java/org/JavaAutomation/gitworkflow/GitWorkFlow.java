@@ -19,6 +19,7 @@ public class GitWorkFlow {
         String step15 = "However< the local master branch does not have the latest changes, therefore perform a git fetch and git pull";
 
 
+
         System.out.println(step1);
         System.out.println(step2);
         System.out.println(step3);
