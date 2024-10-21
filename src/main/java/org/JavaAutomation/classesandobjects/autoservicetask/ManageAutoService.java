@@ -1,6 +1,5 @@
 package org.JavaAutomation.classesandobjects.autoservicetask;
 
-
 public class ManageAutoService {
     public static void main (String [] args) {
 

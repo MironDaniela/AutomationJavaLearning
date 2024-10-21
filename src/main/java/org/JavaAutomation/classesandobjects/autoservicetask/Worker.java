@@ -5,4 +5,5 @@ public class Worker {
     double height;
     double weight;
     int age;
+
 }
