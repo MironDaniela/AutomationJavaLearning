@@ -5,6 +5,7 @@ public class Tool {
     String name;
     double weight;
 
+
     public Tool(String name){
         this.name = name;
         System.out.println ("Un obiect de tip tool a fost creat, numele lui este " + this.name);
