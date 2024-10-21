@@ -16,7 +16,6 @@ public class Car {
         this.color = colorLocalVariable ;
 
     }
-
     // Acest constructor va crea un obiect de tipul Car despre care vom cunoaste doar numarul de imatriculare
 
     public Car(String plateNumber){
